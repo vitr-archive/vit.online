@@ -1,2 +1,0 @@
-# vit.online
-Personal website
